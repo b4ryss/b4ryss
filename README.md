@@ -3,12 +3,10 @@
 Welcome to baryss' Github page!
 
 ### 📊 My Stats
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=b4ryss&show_icons=true&theme=dark&border_color=000000&icon_color=6f03fc&cache_seconds=21600&border_radius=24&title_color=eeeeee&bg_color=101010&rank_icon=github&ring_color=6f03fc" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4ryss&layout=compact&theme=dark&border_color=000000&icon_color=6f03fc&cache_seconds=21600&border_radius=24&title_color=eeeeee&bg_color=101010&langs_count=10" />
-</a>
+
+![baryss' Github Stats](https://githubreadmestats.vercel.app/apiusername=b4ryss&show_icons=true&theme=dark&border_color=000000&icon_color=6f03fc&cache_seconds=21600&border_radius=24&title_color=eeeeee&bg_color=101010&rank_icon=github&ring_color=6f03fc)
+![TopLangs](https://githubreadmestats.vercel.app/api/toplangs/username=b4ryss&layout=compact&theme=dark&border_color=000000&icon_color=6f03fc&cache_seconds=21600&border_radius=24&title_color=eeeeee&bg_color=101010&langs_count=10)
+
 
 ### 🛠 Technical Skills & Details
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
