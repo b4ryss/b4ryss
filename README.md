@@ -5,7 +5,7 @@ Welcome to baryss' Github page!
 ### 📊 My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b4ryss&show_icons=true&theme=dark&border_color=000000&icon_color=6f03fc&cache_seconds=21600&border_radius=24&title_color=eeeeee&bg_color=101010&rank_icon=github&ring_color=6f03fc)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4ryss&layout=compact&theme=dark&border_color=000000&icon_color=6f03fc&card_width=500&cache_seconds=21600&border_radius=24&title_color=eeeeee&bg_color=101010&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4ryss&layout=compact&theme=dark&border_color=000000&icon_color=6f03fc&card_width=465&cache_seconds=21600&border_radius=24&title_color=eeeeee&bg_color=101010&langs_count=10)
 
 
 
